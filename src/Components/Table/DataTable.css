@@ -1,0 +1,60 @@
+.width{
+  background-image: url('lightbg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  top: 0px;
+ /* width: 100%;
+  margin: 20px auto;
+  table-layout: auto;*/
+  width: auto;
+  
+/*  margin-right: 0px;
+  margin-left: auto;*/
+  /*position: absolute;*/
+  right: -5px;
+  padding: 0px;
+}
+/*body {
+  padding: 14px;
+  text-align: center;
+}*/
+
+/*td,
+th {*/
+  /*padding: 0.25rem;
+*/  /*border-collapse: collapse;
+  border-spacing: 0px;
+}*/
+
+
+/*th,
+td {
+  text-align: center;
+}
+th {
+  height: 50px;
+}*/
+ /* margin-left: auto;
+  border-spacing: 0px;
+}*/
+
+/*.fix{
+    position:bottom;
+    /*padding-bottom: 2000px;*/
+    /*display: flex;*/
+    /*align-items: right;*/
+    /*object-fit: cover;*/
+/*    position: absolute;
+    bottom: 0;*/
+    /*text-align: right;*/
+    /*float:right;*/
+    /*right: 20;*/
+/*    bottom: 10000;*/
+    /*vertical-align:middle;*/
+    /*line-height:100%;*/
+     /*right: 70px;*/
+    /* width: 900px;
+     height: 600px;*/
+
+/*}*/

@@ -1,0 +1,22 @@
+.Hey{
+	padding: 70px 0 ;
+  text-align: center;
+  -webkit-box-align:center;
+      -ms-flex-align:center;
+          align-items:center;
+  -ms-flex-item-align:center;
+      -ms-grid-row-align:center;
+      align-self:center;
+  -ms-flex-line-pack:center;
+      align-content:center;
+  -webkit-box-pack:center;
+      -ms-flex-pack:center;
+          justify-content:center;
+  vertical-align:middle;
+  line-height:100%;
+  margin:auto;
+  overflow: auto; 
+  margin: auto; 
+  position: absolute; 
+  top: 0; left: 0; bottom: 0; right: 0;
+}

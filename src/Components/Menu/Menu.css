@@ -1,0 +1,51 @@
+.center {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    position: fixed;
+    right: -7px;  
+}
+.fix{
+    margin-bottom: -10px;
+    position:bottom;
+    /*padding-bottom: 2000px;*/
+    /*display: flex;*/
+    /*align-items: right;*/
+    /*object-fit: cover;*/
+    position: absolute;
+    bottom: 0;
+    text-align: right;
+    float:right;
+    /*right: 20;*/
+    top: 50; bottom: 10000;
+    /*vertical-align:middle;*/
+    /*line-height:100%;*/
+     right: 70px;
+     width: 900px;
+     height: 600px;
+
+}
+.Hey{
+  padding: 70px 0 ;
+ align-items: right;
+  -webkit-box-align:right;
+      -ms-flex-align:right;
+          align-items:right;
+  -ms-flex-item-align:right;
+      -ms-grid-row-align:right;
+      align-self:right;
+  -ms-flex-line-pack:right;
+      align-content:right;
+  -webkit-box-pack:right;
+      -ms-flex-pack:right;
+          justify-content:right;
+  vertical-align:middle;
+  line-height:100%;
+  margin:auto;
+  overflow: auto; 
+  margin: auto; 
+  position: absolute; 
+  right: -100px;
+  top: 0; left: 0; bottom: 0;
+}
+

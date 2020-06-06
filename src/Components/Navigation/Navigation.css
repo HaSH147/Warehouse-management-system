@@ -1,0 +1,8 @@
+.top{
+	 position: absolute;
+
+	top: -20px;
+}
+.fit{
+	object-fit: cover;
+}
